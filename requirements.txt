@@ -1,6 +1,6 @@
 # Deployed dependencies
-pyyaml == 5.1
 boto==2.45.0
+pyyaml == 5.1
 
 # Development dependencies:
 Nose == 1.1.2
